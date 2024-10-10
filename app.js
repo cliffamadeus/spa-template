@@ -8,9 +8,9 @@ class App {
     initEventListeners() {
         
         const pages = [
-            { id: 'homeLink', name: 'home' },
-            { id: 'chartsLink', name: 'charts' },
-            { id: 'contactLink', name: 'contact' },
+            { id: 'homePage', name: 'home' },
+            { id: 'page1', name: 'page1' },
+            { id: 'page2', name: 'page2' },
         ];
 
         pages.forEach(page => {
